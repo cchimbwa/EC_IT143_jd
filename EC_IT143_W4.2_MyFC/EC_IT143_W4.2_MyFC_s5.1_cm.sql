@@ -1,0 +1,1 @@
+SELECT * INTO dbo.t_MyFC_PositionCount FROM dbo.v_MyFC;

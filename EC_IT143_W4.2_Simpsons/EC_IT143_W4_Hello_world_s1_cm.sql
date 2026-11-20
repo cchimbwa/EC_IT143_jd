@@ -1,0 +1,3 @@
+-- EC_IT143_W4.2_hello_world_s1_cm.sql
+-- Question: What is Hello World?
+-- Answer: Hello World is the simplest output.

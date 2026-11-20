@@ -1,0 +1,4 @@
+-- EC_IT143_W4.2_hello_world_s2_cm.sql
+-- Step 1: Create query that returns 'Hello World'
+-- Step 2: Turn it into view, then table, then stored procedure
+-- Step 3: Call procedure to show result

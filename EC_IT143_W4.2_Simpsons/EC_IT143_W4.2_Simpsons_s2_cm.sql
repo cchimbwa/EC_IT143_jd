@@ -1,0 +1,1 @@
+-- Plan: Count characters grouped by FamilyName from t_Simpsons

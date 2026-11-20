@@ -1,0 +1,1 @@
+-- Plan: Count players grouped by Position from t_MyFC
